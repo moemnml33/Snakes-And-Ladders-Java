@@ -22,15 +22,15 @@ The program will then roll a dice using java.random and it will select the playe
 
 The user must click any button on their keyboard to get the game going. A counter keeps track of the round number, the player position is updated and displayed after each round, and a special message is displayed when a player hits a snake or a ladder.
 
-![](Images/image3 (snake).png)
+![](Images/image3(snake).png)
 
-![](Images/image4 (ladder).png)
+![](Images/image4(ladder).png)
 
 ### Winner announcement:
 
 The game ends when one player hits the position 100 on the grid. The winner gets announced and the program displays a goodbye message.
 
-![](Images/image5 (game over).png)
+![](Images/image5(game over).png)
 
 ## About the code
 
