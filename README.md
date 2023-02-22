@@ -30,7 +30,7 @@ The user must click any button on their keyboard to get the game going. A counte
 
 The game ends when one player hits the position 100 on the grid. The winner gets announced and the program displays a goodbye message.
 
-![](Images/image5(game over).png)
+![](Images/image5(gameover).png)
 
 ## About the code
 
